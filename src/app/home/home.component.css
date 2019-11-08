@@ -1,0 +1,12 @@
+.spaced
+  {
+    display: flex;
+    justify-content: left;
+    color: lawngreen;
+  }
+  h1{
+    text-align: left;
+    text-transform: "楷体";
+    font-size: 2rem;
+    color: skyblue;
+  }

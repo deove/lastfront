@@ -1,0 +1,28 @@
+.counter-card {
+    max-width: 300px;
+    text-align: center;
+    margin: 5px;
+    display: inline-block;
+}
+
+.counter-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+}
+
+.counter-title h3 {
+    margin: 0px;
+}
+
+.counter-content .counter-value {
+    font-size: 4rem;
+    font-weight: bolder;
+    margin: 0px;
+}
+
+.counter-content .counter-value p {
+    margin: 0px;
+}
